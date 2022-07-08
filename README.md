@@ -1,6 +1,10 @@
 # examen_integrador-
 
-Luis David Bolivar
+## Grupo 12
 
-Thomas Buitrago Uribe 
+1. Luis David Bolivar
+
+2. Thomas Buitrago Uribe 
+
+
 
