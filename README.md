@@ -1,4 +1,6 @@
 # examen_integrador-
 
-Luis David Bolivar 
+Luis David Bolivar
+
+Thomas Buitrago Uribe 
 
